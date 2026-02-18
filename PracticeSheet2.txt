@@ -13,6 +13,13 @@ return a-b;
 
 }
 
+public static int mul()
+{
+int a =5;
+int b=20;
+return a*b;
+}
+
 
 
 
@@ -22,6 +29,7 @@ return a-b;
 public static void main(String[] args)
 {
    sub();
+   mul();
 }
 
 }
