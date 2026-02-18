@@ -5,6 +5,15 @@ This is Git Hub Tutorial
 public class Demo {
 
 
+public static int sub()
+{
+int a= 10;
+int b=5;
+return a-b;
+
+}
+
+
 
 
 
@@ -12,7 +21,7 @@ public class Demo {
 
 public static void main(String[] args)
 {
-
+   sub();
 }
 
 }
